@@ -9,4 +9,4 @@ Dataset Summary
 - This dataset was featured in a Kaggle challenge https://www.kaggle.com/c/wongnai-challenge-review-rating-prediction/overview
 
 Source Data
-- Data was collected by Wongnai from business reviews on their website, and shared on GitHub and Kaggle.
+- Data was collected by Wongnai from business reviews on their website, and shared on GitHub (https://github.com/wongnai/wongnai-corpus) and Kaggle 
